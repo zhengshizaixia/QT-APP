@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/bg1.jpg</file>
+        <file>image/bg2.jpg</file>
+        <file>image/bg3.jpg</file>
+        <file>ico/k1.ico</file>
+        <file>ico/k2.ico</file>
+        <file>ico/k3.ico</file>
+        <file>ico/k4.ico</file>
+        <file>ico/k5.ico</file>
+        <file>ico/k6.ico</file>
+        <file>ico/k7.ico</file>
+        <file>ico/k8.ico</file>
+        <file>ico/k9.ico</file>
+        <file>ico/k10.ico</file>
+        <file>ico/k11.ico</file>
+        <file>ico/k12.ico</file>
+        <file>ico/k13.ico</file>
+        <file>ico/k14.ico</file>
+    </qresource>
+</RCC>
