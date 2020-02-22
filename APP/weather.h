@@ -31,6 +31,10 @@ private slots:
 private:
     Ui::weather *ui;
     QNetworkAccessManager *manager;
+
+    QString wind_dir;       //风力
+    QString tem;        //温度
+    QString weather_type;  //天气类型
 signals:
     void weatherSignal();
     void finished(QNetworkReply*);

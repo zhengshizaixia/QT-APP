@@ -17,5 +17,6 @@
         <file>ico/k12.ico</file>
         <file>ico/k13.ico</file>
         <file>ico/k14.ico</file>
+        <file>image/weather.jpg</file>
     </qresource>
 </RCC>
